@@ -1,0 +1,13 @@
+{
+  "name": "svgtopng",
+  "version": "1.0.0",
+  "description": "Convert SVG to PNG format (with multiplicator)",
+  "main": "app.js",
+  "dependencies": {
+    "sharp": "^0.28.3",
+    "svg-dimensions": "^1.0.2",
+    "svg2img": "^0.9.3"
+  },
+  "author": "Freiik",
+  "license": "ISC"
+}
